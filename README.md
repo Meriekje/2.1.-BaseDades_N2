@@ -10,16 +10,16 @@ In order to get:
 
 ## Databases:
 ### Store:
-A database that models a store with products and manufacturers.\
+A database that models a store with products and manufacturers.
 
 **- Tables:**
   - producto (codigo, nombre, precio, codigo_fabricante)
-  - fabricante (codigo, nombre) \
+  - fabricante (codigo, nombre) 
 
 **- Relationships:** producto.codigo_fabricante relates to fabricante.codigo.
 
 ### University:
-A database modeling a university with students, professors, departments, degrees, and courses.\
+A database modeling a university with students, professors, departments, degrees, and courses.
 
 **- Tables:**
   - departamento
@@ -28,7 +28,7 @@ A database modeling a university with students, professors, departments, degrees
   - grado
   - asignatura
   - curso_escolar
-  - alumno_se_matricula_asignatura\
+  - alumno_se_matricula_asignatura
 
 **- Relationships:**
 This database includes various one-to-many and many-to-many relationships between tables.
