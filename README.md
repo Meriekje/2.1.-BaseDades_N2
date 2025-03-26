@@ -1,11 +1,11 @@
 # 2.1.-BaseDades_N2
 A serie of SQL queries linked to a university and a store databases. 
 In order to get: 
-- **Specific data from a table:** Using simple SELECT and advanced filtering with WHERE, GROUP BY, and HAVING.
+- **Specific data from a table:** Using simple SELECT.
 - **Table relationships:** Using inner and outer JOIN to explore and combine data from multiple tables.
 - **Calculations:** Using COUNT(), SUM(), and other functions to summarize and analyze data.
-- **Filtering and Sorting:** Use of WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT clauses for precise filtering and presentation of results.
-- **String and Date Manipulation:** Functions like UPPER(), LOWER(), etc., for text and date operations.
+- **Filtering and sorting:** Use of WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT clauses for precise filtering and presentation of results.
+- **String and date manipulation:** Functions like UPPER(), LOWER(), etc., for text and date operations.
 
 
 ## Databases:
