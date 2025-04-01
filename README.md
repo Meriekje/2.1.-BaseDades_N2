@@ -1,6 +1,6 @@
 # 2.1.-BaseDades_N2
 This project involves creating a simple database model for a reduced version of YouTube. 
-The database will store information about users, videos, channels, subscriptions, likes/dislikes, playlists, and comments.
+The database will store information about users, videos, tags, channels, subscriptions, likes/dislikes, playlists, and comments.
 
 ## Database Structure
 
